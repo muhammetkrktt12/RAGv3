@@ -1,0 +1,13 @@
+KAMPÜS AĞI VE WI-FI — KURGUSAL EĞİTİM VERİSİ
+
+Kampüs kablosuz ağına üniversite kullanıcı adı ve parolası ile bağlanılır. Misafir ağı için ziyaretçi danışmasından süreli erişim kodu alınabilir.
+
+Wi-Fi bağlantısı kurulamazsa önce ağın unutulup yeniden seçilmesi, cihaz saatinin otomatik olması ve hesabın aktif olduğunun doğrulanması önerilir.
+
+Parola güncelleme işlemi yalnızca resmi kimlik doğrulama sayfasından yapılır. Öğrencilerden parolalarını e-posta veya sohbet üzerinden paylaşmaları istenmez.
+
+Yurt binalarında bağlantı sorunları Bilgi İşlem destek masasına bildirilir. Arızada bina, kat, cihaz tipi ve hata saati belirtilmelidir.
+
+Kampüs VPN hizmeti yalnızca yetkilendirilmiş kullanıcılar içindir; erişim yetkisi kurumsal politika ile yönetilir.
+
+Bu belge ders için oluşturulmuş örnek metindir.

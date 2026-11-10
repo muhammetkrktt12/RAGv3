@@ -1,0 +1,7 @@
+# Python 3.11 veya 3.12 önerilir; paketin güncel uyumlu 1.x sürümlerini seç.
+# İlk kurulum tamamlandıktan sonra eğitmen: python -m pip freeze > requirements-lock.txt
+langchain-core>=1.0,<2.0
+langchain-text-splitters>=1.0,<2.0
+langchain-ollama>=1.0,<2.0
+langchain-chroma>=1.0,<2.0
+pypdf

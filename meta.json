@@ -1,0 +1,46 @@
+{
+  "kutuphane.txt": {
+    "birim": "Kutuphane",
+    "erisim": "genel"
+  },
+  "kayip_esya.txt": {
+    "birim": "Ogrenci_Isleri",
+    "erisim": "genel"
+  },
+  "kulupler.txt": {
+    "birim": "Sosyal_Yasam",
+    "erisim": "genel"
+  },
+  "sinavlar.txt": {
+    "birim": "Ogrenci_Isleri",
+    "erisim": "genel"
+  },
+  "wifi.txt": {
+    "birim": "Bilgi_Islem",
+    "erisim": "genel"
+  },
+  "ulasim.txt": {
+    "birim": "Ulasim",
+    "erisim": "genel"
+  },
+  "yemekhane.txt": {
+    "birim": "Sosyal_Yasam",
+    "erisim": "genel"
+  },
+  "staj.txt": {
+    "birim": "Kariyer_Merkezi",
+    "erisim": "genel"
+  },
+  "erasmus.txt": {
+    "birim": "Uluslararasi",
+    "erisim": "genel"
+  },
+  "assigment.pdf": {
+    "birim": "Egitim_Fakultesi",
+    "erisim": "genel"
+  },
+  "fenbilimleri.pdf": {
+    "birim": "Fen_Bilimleri",
+    "erisim": "genel"
+  }
+}

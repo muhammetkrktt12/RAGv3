@@ -1,0 +1,13 @@
+KAMPÜS ULAŞIM VE SERVİS — KURGUSAL EĞİTİM VERİSİ
+
+Kampüs içi ring servisleri hafta içi her 20 dakikada bir kalkar. İlk servis 07.40, son servis 22.20 saatindedir.
+
+Ringlerin kalkış noktaları Ana Kapı, Kütüphane, Mühendislik Binası ve Yurtlar durağıdır.
+
+Cumartesi günleri ring servisleri her 40 dakikada bir çalışır. Pazar günleri ring servisi bulunmaz.
+
+Erişilebilir ulaşım ihtiyacı bulunan öğrenciler 24 saat önceden Ulaşım Koordinatörlüğüne talep oluşturabilir.
+
+Kayıp eşyalar ring şoförüne teslim edilmişse gün sonunda Öğrenci İşleri danışmasına aktarılır.
+
+Bu zamanlar gerçek bir ulaşım tarifesi değildir.
